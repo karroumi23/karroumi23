@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/boot
 
 
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=karroumi23"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true"/>
 
 
 

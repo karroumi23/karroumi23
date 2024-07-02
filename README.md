@@ -23,8 +23,9 @@ src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/boot
 
 
 
-| <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true"/> | <a href="https://github.com/karroumi23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroumi23&layout=compact&theme=buefy&hide_border=true" alt="karroumi23 Top Languages" /></a> |
+| <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroumi23&layout=compact&theme=buefy&hide_border=true" alt="karroumi23 Top Languages" /> |
 | ------------- | ------------- |
+
 
 
 

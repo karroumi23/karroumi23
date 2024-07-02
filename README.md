@@ -1,17 +1,13 @@
-### Hi there 👋
-## test2
-# test 3
-<!--
-**karroumi23/karroumi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is karroumi
+#### Junior Developer Passionate About Building Innovative Solutions
+![Junior Developer Passionate About Building Innovative Solutions](https://media.licdn.com/dms/image/D4E16AQHkjaedl98IBg/profile-displaybackgroundimage-shrink_350_1400/0/1719588500610?e=1725494400&v=beta&t=7oXI37cj5BbepcjAhuUOuidNv0LBujTiI15iT_6QF0w)
 
-Here are some ideas to get you started:
+Hello! I'm a Junior Developer passionate about coding and eager to learn and grow. I have a solid foundation in various programming languages and technologies, and I'm always looking to expand my skills and knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:  JS / HTML / CSS / Git / GitHub / MySQL / WordPress / Bootstrap
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

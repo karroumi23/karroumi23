@@ -20,7 +20,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/GitHub/GitHub.png"></code>
 <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/MySQL/MySQL.png"></code>
-<code><img height="20" alt="WordPress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/WordPress/WordPress.png"></code>
+
+
+<code><img height="20" alt="WordPress" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/WordPress/WordPress.png](https://www.google.com/imgres?q=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F80688e429a7d4ef2fca1e82350fe8e3517d3494d%2Ftopics%2FWordPress%2FWordPress.png&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F80688e429a7d4ef2fca1e82350fe8e3517d3494d%2Ftopics%2Fwordpress%2Fwordpress.png&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fwordpress%3Fl%3Dcss&docid=pWX_MNztfYP6OM&tbnid=x-Ld9egsY3yQRM&vet=12ahUKEwjU6YmumoiHAxV3VqQEHZudAqgQM3oECBkQAA..i&w=288&h=288&hcb=2&ved=2ahUKEwjU6YmumoiHAxV3VqQEHZudAqgQM3oECBkQAA)"></code>
 
 
 

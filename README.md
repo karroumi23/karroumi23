@@ -19,7 +19,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/GitHub/GitHub.png"></code>
-<code><img height="20" alt="MySQL" src="file:///C:/Users/ANASS%20Karoumi/Desktop/wordpress.png"></code>
+<code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/6c4f7ff59e9c57fa1b43f986d5ab379d178d57aa/topics/github/github.png"></code>
 
 
 

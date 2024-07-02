@@ -15,7 +15,7 @@ Skills:
 * Bootstrap
 
 - 🔭 I’m currently working on this page. 
-
+- 🌱 I’m currently learning this page. 
 
 
 

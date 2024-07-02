@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/boot
 
 
 
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="karroumi23's GitHub stats" /></a> | <a href
 
 
 

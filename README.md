@@ -23,9 +23,7 @@ src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/boot
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karroumi23)](https://github.com/karroumi23/github-readme-stats)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 

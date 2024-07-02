@@ -26,7 +26,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/MySQL/MySQL.png"></code>
 
-<code><img height="20" alt="WordPress " src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/WordPress /WordPress .png"></code>
+<code><img height="20" alt="WordPress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/WordPress/WordPress.png"></code>
 
 
 

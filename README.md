@@ -22,8 +22,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/github/github.png"></code>
 <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="WordPress" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861b1a3e32348beaa2c0b4c1a6c/topics/wordpress/wordpress.png"></code>
-<code><img height="20" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/8c52f6a3e2f1b8e966b8f3e3c7b5c8a726c94322/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" alt="WordPress" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/wordpress/wordpress.png"></code>
+
+<code><img height="20" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/515b54d64570b7ab9a0b5b0d3abf379a40622b89/topics/bootstrap/bootstrap.png"></code>
+
 
 
 

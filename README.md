@@ -1,18 +1,13 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+### Hi there 👋, my name is Anass
+#### Junior Developer | Passionate About Building Innovative Solutions 
+![Junior Developer | Passionate About Building Innovative Solutions ](https://media.licdn.com/dms/image/D4E16AQHkjaedl98IBg/profile-displaybackgroundimage-shrink_350_1400/0/1719588500610?e=1725494400&v=beta&t=7oXI37cj5BbepcjAhuUOuidNv0LBujTiI15iT_6QF0w)
 
-<br />
+Hello! I'm a Junior Developer passionate about coding and eager to learn and grow. I have a solid foundation in various programming languages and technologies and always want to expand my skills and knowledge.
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Skills: JS / HTML / CSS / Git / GitHub / MySQL / WordPress / BOOTSTRAP
 
-**About me**
-
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning this page. 
 
 ### Technologies I Work With
 

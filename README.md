@@ -43,8 +43,10 @@
 <br>
 
 
-| <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroumi23&layout=compact&theme=buefy&hide_border=true" alt="karroumi23 Top Languages" /> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true)</a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroumi23&layout=compact&theme=buefy&hide_border=true" alt="karroumi23 Top Languages" /> |
 | ------------- | ------------- |
+
+
 
 
 
@@ -52,31 +54,14 @@
 
 #### Top Repositories
 
-
-<a href="https://github.com/anuraghazra/Image-editor">
-  <img align="center" src="https://github.com/karroumi23/Image-editor.git
-" />
+<a href="https://github.com/karroumi23/CRUD-Product-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karroumi23&repo=CRUD-Product-Management-System&theme=buefy" />
 </a>
-
-
-
-https://github.com/karroumi23/Image-editor.git
-https://github.com/karroumi23/Image-editor/tree/master
-
-
-
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy](https://github.com/karroumi23/Image-editor.git)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
-<br />
-<br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+
 
 

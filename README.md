@@ -4,7 +4,15 @@
 
 Hello! I'm a Junior Developer passionate about coding and eager to learn and grow. I have a solid foundation in various programming languages and technologies, and I'm always looking to expand my skills and knowledge.
 
-Skills:  JS / HTML / CSS / Git / GitHub / MySQL / WordPress / Bootstrap
+Skills: 
+* JS
+* HTML
+* CSS
+* Git
+* GitHub
+* MySQL
+* WordPress
+* Bootstrap
 
 - 🔭 I’m currently working on this page. 
 

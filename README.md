@@ -7,7 +7,7 @@
  and technologies and I always want to expand my skills and knowledge.
 
 ### Skills: 
-* JS / HTML / CSS / Git / GitHub / MySQL / WordPress / BOOTSTRAP
+* JS / HTML / CSS / Git / GitHub / MySQL / WordPress / BOOTSTRAP 
 
 - 🔭 I’m currently working on this page. 
 

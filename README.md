@@ -17,25 +17,25 @@
  <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a> 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f34f29">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=e8eaea">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=F29111">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=563d7c">
 </a>
 

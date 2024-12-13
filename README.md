@@ -14,7 +14,7 @@
 ### Technologies I Work With
 
 
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a> 
 <a href="https://github.com/harish-sethuraman/readme-components">

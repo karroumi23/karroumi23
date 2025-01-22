@@ -24,6 +24,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
 <a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=028dd1">
+</a>
+<a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f34f29">
 </a>
 <a href="#">

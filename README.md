@@ -104,7 +104,9 @@ I'm a motivated Junior Developer with a strong passion for building clean, funct
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karroumi-anass-a241b2173/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/karroumi23)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasskarroumi2016@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=anasskarroumi2016@gmail.com)
+
+**📧 Email:** `anasskarroumi2016@gmail.com`
 
 </div>
 

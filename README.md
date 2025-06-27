@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Anass
 
 #### Junior Developer | Passionate About Building Innovative Solutions 
-![Junior Developer | Passionate About Building Innovative Solutions ](https://media.licdn.com/dms/image/D4E16AQHkjaedl98IBg/profile-displaybackgroundimage-shrink_350_1400/0/1719588500610?e=1725494400&v=beta&t=7oXI37cj5BbepcjAhuUOuidNv0LBujTiI15iT_6QF0w)
+![Banner](https://github.com/karroumi23/your-repo-name/blob/main/assets/banner.jpg?raw=true)
+
 
 ### About Me 
  I'm a Junior Developer passionate about coding and eager to learn and grow. I have a solid foundation in various programming languages 

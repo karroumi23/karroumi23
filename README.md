@@ -41,6 +41,7 @@ I'm a motivated Junior Developer with a strong passion for building clean, funct
 
 ### **Backend & Database**
 <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4" alt="PHP"/></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20" alt="Laravel"/></a>
 <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=F29111" alt="MySQL"/></a>
 <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b" alt="WordPress"/></a>
 
@@ -52,20 +53,16 @@ I'm a motivated Junior Developer with a strong passion for building clean, funct
 
 ---
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroumi23&layout=compact&langs_count=8&theme=tokyonight"/>
-
 </div>
-
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karroumi23&theme=tokyonight)
-  
+Afficher l'image
 </div>
+
+
 
 ---
 
@@ -82,23 +79,21 @@ I'm a motivated Junior Developer with a strong passion for building clean, funct
 
 ---
 
-## 📈 Activity Graph
 
-[![Anass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karroumi23&theme=tokyo-night)](https://github.com/karroumi23)
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
-- 🔭 **Currently working on:** Expanding my full-stack development skills
-- 🌱 **Learning:** Advanced JavaScript frameworks and backend technologies  
-- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
-- 💬 **Ask me about:** Web development, PHP, JavaScript, or anything tech-related!
-- ⚡ **Fun fact:** I believe every bug is just an undocumented feature waiting to be discovered! 🐛✨
+-  **Currently working on:** Expanding my full-stack development skills
+-  **Learning:** Advanced JavaScript frameworks and backend technologies  
+-  **Looking to collaborate on:** Open source projects and innovative web applications
+-  **Ask me about:** Web development, PHP, JavaScript, or anything tech-related!
+-  **Fun fact:** I believe every bug is just an undocumented feature waiting to be discovered! 
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!🤝
 
 <div align="center">
 
@@ -113,10 +108,11 @@ I'm a motivated Junior Developer with a strong passion for building clean, funct
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=karroumi23&color=brightgreen&style=flat-square&label=Profile+Views)
   
-  **Thank you for visiting my profile! 🚀**
+  **Thank you for visiting my profile!**
   
-  *"The best way to predict the future is to create it."* - Peter Drucker
+  He who works hard, will succeed — and he who plants, will harvest.
+
+
   
 </div>

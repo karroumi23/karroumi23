@@ -10,20 +10,21 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```typescript
 const anass = {
     role: "Junior Developer",
     code: ["JavaScript", "PHP", "HTML", "CSS"],
-    tools: ["WordPress", "MySQL", "Git", "Bootstrap"],
+    frameworks: ["Laravel", "Bootstrap"],
+    tools: ["WordPress", "MySQL", "Git"],
     currentFocus: "Building innovative web solutions",
     passion: "Clean code & user-focused applications",
     motto: "Learning something new every day! 📚"
 };
 ```
 
-> 💡 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+> 💡 **"Code taught me to think logically and solve problems patiently."** – Cory House
 
 I'm a motivated Junior Developer with a strong passion for building clean, functional, and user-focused web applications. I have a solid foundation in PHP, JavaScript, and front-end technologies, and I'm always eager to learn new tools and frameworks. I'm committed to improving my skills every day and contributing to impactful projects through continuous learning and collaboration.
 

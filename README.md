@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Anass
 
 #### Junior Developer | Passionate About Building Innovative Solutions 
-![Banner](https://github.com/karroumi23/your-repo-name/blob/main/assets/banner.jpg?raw=true)
+![banner](https://github.com/karroumi23/karroumi23/blob/main/banner.jpg?raw=true)
+
 
 
 ### About Me 

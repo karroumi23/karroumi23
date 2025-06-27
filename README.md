@@ -1,79 +1,121 @@
-### Hi there 👋, my name is Anass
+# Hi there 👋, I'm **Anass**
 
-#### Junior Developer | Passionate About Building Innovative Solutions 
-![banner](https://github.com/karroumi23/karroumi23/blob/main/banner.jpg?raw=true)
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Developer+%7C+Problem+Solver;Passionate+About+Building+Solutions;Always+Learning+%26+Growing;Welcome+to+my+GitHub+Profile!)
 
+</div>
 
+![banner](https://github.com/user-attachments/assets/3b116eda-231c-4fdc-8cb5-090cb7c5bcac)
 
-### About Me 
- I'm a Junior Developer passionate about coding and eager to learn and grow. I have a solid foundation in various programming languages 
- and technologies and I always want to expand my skills and knowledge.
+---
 
-### Skills: 
-* JS / PHP/ HTML / CSS / Git / GitHub / MySQL / WordPress / BOOTSTRAP 
+## 🚀 About Me
 
-- 🔭 I’m currently working on this page. 
+```typescript
+const anass = {
+    role: "Junior Developer",
+    code: ["JavaScript", "PHP", "HTML", "CSS"],
+    tools: ["WordPress", "MySQL", "Git", "Bootstrap"],
+    currentFocus: "Building innovative web solutions",
+    passion: "Clean code & user-focused applications",
+    motto: "Learning something new every day! 📚"
+};
+```
 
-### Technologies I Work With
+> 💡 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
+I'm a motivated Junior Developer with a strong passion for building clean, functional, and user-focused web applications. I have a solid foundation in PHP, JavaScript, and front-end technologies, and I'm always eager to learn new tools and frameworks. I'm committed to improving my skills every day and contributing to impactful projects through continuous learning and collaboration.
 
- <a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a> 
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=028dd1">
-</a>
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f34f29">
-</a>
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=e8eaea">
-</a>
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=F29111">
-</a>
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b">
-</a>
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=563d7c">
-</a>
+---
 
-<br>
-<be>
+## 🛠️ Tech Stack & Skills
 
+<div align="center">
 
+### **Frontend Development**
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" alt="HTML5"/></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1" alt="CSS3"/></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" alt="JavaScript"/></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=563d7c" alt="Bootstrap"/></a>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true)</a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroumi23&layout=compact&theme=buefy&hide_border=true" alt="karroumi23 Top Languages"/> |
-| ------------- | ------------- |
+### **Backend & Database**
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4" alt="PHP"/></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=F29111" alt="MySQL"/></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b" alt="WordPress"/></a>
 
+### **Development Tools**
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f34f29" alt="Git"/></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=e8eaea" alt="GitHub"/></a>
 
+</div>
 
+---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karroumi23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroumi23&layout=compact&langs_count=8&theme=tokyonight"/>
 
+</div>
 
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karroumi23&theme=tokyonight)
+  
+</div>
 
-### Top Repositories
+---
 
-<a href="https://github.com/karroumi23/cabinet-medical-healthy-first/tree/master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karroumi23&repo=cabinet-medical-healthy-first&theme=buefy" />
-</a>
-<a href="https://github.com/karroumi23/CRUD-Product-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karroumi23&repo=CRUD-Product-Management-System&theme=buefy" />
-</a>
-<a href="https://github.com/karroumi23/facture-en-ligne-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karroumi23&repo=facture-en-ligne-1&theme=buefy" />
-</a>
+## 🏆 Featured Projects
 
+<div align="center">
 
+[![Medical Cabinet](https://github-readme-stats.vercel.app/api/pin/?username=karroumi23&repo=cabinet-medical-healthy-first&theme=tokyonight)](https://github.com/karroumi23/cabinet-medical-healthy-first)
+[![CRUD System](https://github-readme-stats.vercel.app/api/pin/?username=karroumi23&repo=CRUD-Product-Management-System&theme=tokyonight)](https://github.com/karroumi23/CRUD-Product-Management-System)
 
+[![Invoice System](https://github-readme-stats.vercel.app/api/pin/?username=karroumi23&repo=facture-en-ligne-1&theme=tokyonight)](https://github.com/karroumi23/facture-en-ligne-1)
 
+</div>
 
+---
 
+## 📈 Activity Graph
+
+[![Anass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karroumi23&theme=tokyo-night)](https://github.com/karroumi23)
+
+---
+
+## 🎯 Current Goals
+
+- 🔭 **Currently working on:** Expanding my full-stack development skills
+- 🌱 **Learning:** Advanced JavaScript frameworks and backend technologies  
+- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
+- 💬 **Ask me about:** Web development, PHP, JavaScript, or anything tech-related!
+- ⚡ **Fun fact:** I believe every bug is just an undocumented feature waiting to be discovered! 🐛✨
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karroumi-anass-a241b2173/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/karroumi23)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=karroumi23&color=brightgreen&style=flat-square&label=Profile+Views)
+  
+  **Thank you for visiting my profile! 🚀**
+  
+  *"The best way to predict the future is to create it."* - Peter Drucker
+  
+</div>
